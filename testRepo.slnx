@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="testRepo/testRepo.vcxproj" Id="fe35c678-bfc1-4c34-8ba9-6e4be75e257b" />
+</Solution>
